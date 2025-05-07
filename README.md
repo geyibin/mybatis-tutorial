@@ -4,25 +4,23 @@
 
 文章列表：
 
-<ul>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-learn-prepare.html">准备工作</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-jdbc.html">回顾 JDBC</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-prepare-data.html">数据准备</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-find-by-id.html">查找id为1的用户信息</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-custom-conn-pool.html">自定义连接池</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-not-use-config-xml.html">不用MyBatis配置文件</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-find-all.html">查询密码为123的所有用户</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-filed-name-inconsistent.html">如果Bean中成员变量和表中字段命名不一致</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-more-find-methods.html">更多查询用户的方式</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-select-order.html">对查询结果排序</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-log.html">日志</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-insert-update-delete.html">添加、删除、修改数据</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-transaction.html">事务</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-dynamic-sql.html">动态SQL</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mbatis-one2one-one2multi.html">一对一和一对多的实现</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mbatis-one2one-one2multi-delay-load.html">一对一和一对多的延迟加载</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-multi2multi.html">多对多的实现</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-query-pagination.html">分页查询</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-annotation-sql.html">把SQL写在注解中</a></li>
-<li><a href="https://www.letianbiji.com/mybatis/mybatis-auto-generator.html">自动生成Mapper代码和映射XML</a></li>
-</ul>
+* [MyBatis：准备工作](https://www.letiantian.xyz/p/101175.html)
+* [MyBatis：回顾 JDBC](https://www.letiantian.xyz/p/101176.html)
+* [MyBatis：数据准备](https://www.letiantian.xyz/p/101177.html)
+* [MyBatis：查找id为1的用户信息](https://www.letiantian.xyz/p/101178.html)
+* [MyBatis：自定义连接池](https://www.letiantian.xyz/p/101179.html)
+* [MyBaits：不用MyBatis配置文件](https://www.letiantian.xyz/p/101180.html)
+* [MyBatis：查询密码为123的所有用户](https://www.letiantian.xyz/p/101181.html)
+* [MyBatis：如果Bean中成员变量和表中字段命名不一致](https://www.letiantian.xyz/p/101182.html)
+* [MyBatis：更多查询用户的方式](https://www.letiantian.xyz/p/101183.html)
+* [MyBatis：对查询结果排序](https://www.letiantian.xyz/p/101184.html)
+* [MyBatis：日志](https://www.letiantian.xyz/p/101185.html)
+* [MyBatis：添加、删除、修改数据](https://www.letiantian.xyz/p/101186.html)
+* [MyBatis：事务](https://www.letiantian.xyz/p/101187.html)
+* [MyBatis：动态SQL](https://www.letiantian.xyz/p/101188.html)
+* [MyBatis：一对一和一对多的实现](https://www.letiantian.xyz/p/101189.html)
+* [MyBatis：一对一和一对多的延迟加载](https://www.letiantian.xyz/p/101190.html)
+* [MyBatis：多对多的实现](https://www.letiantian.xyz/p/101191.html)
+* [MyBatis：分页查询](https://www.letiantian.xyz/p/101192.html)
+* [MyBatis：把SQL写在注解中](https://www.letiantian.xyz/p/101193.html)
+* [MyBatis：自动生成Mapper代码和映射XML](https://www.letiantian.xyz/p/101194.html)
